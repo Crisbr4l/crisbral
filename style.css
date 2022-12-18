@@ -1,0 +1,26 @@
+body{
+    background-color: black !important;
+    color: whitesmoke !important; 
+    margin-top: 20px !important;
+    text-align: center !important;
+}
+
+img{
+    max-width: 380px;
+    border-color: aliceblue;
+    border-radius: 50%;
+    
+}
+
+a{
+    text-decoration: none !important;
+    font-size: 25px;
+    color: whitesmoke !important;
+}
+section{
+    background-color: darkblue;
+    border-radius:10px ;
+    max-width: 300px;
+    margin: auto;
+    padding: 10px; ;
+}
